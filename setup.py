@@ -12,6 +12,7 @@ setup(
     packages=find_packages(),
     package_data={
     },
+    install_requires=['requests'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: Web Environment',
